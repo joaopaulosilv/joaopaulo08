@@ -1,4 +1,23 @@
-body {
-    background-color:  #383:
-    colo: #afffaf
+{
+    margin 0;
+    padding 0;
 }
+
+
+
+
+.cabeçalho {
+    background-color:  #383d58;
+    colo: #ffffff
+    display: flex;
+    justify-content: space-aroud;
+}
+
+.cabeçalho-imagem {
+    width: 20%;
+}
+
+.cabeçalho-imagem {
+    width: 20%;
+}
+
